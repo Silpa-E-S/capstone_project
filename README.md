@@ -14,7 +14,7 @@ To build and evaluate binary classification models using Logistic Regression, Ra
 - Scikit-learn (for model training and evaluation)
 ## Project Steps
 ### 1. Data Collection
-- Loaded the dataset from UCI reposirory.
+- Loaded the dataset from UCI repository.
 ### 2. Data Cleaning
 - Handled missing values using forward fill method.
 - Dropped the columns:'fnlwgt','relationship','native-country'.
